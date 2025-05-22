@@ -44,4 +44,4 @@ with open('ip.txt', 'w') as file:
                 file.write(ip + '\n')
 
 print('IP地址已保存到ip.txt文件中。')
-https://ip.164746.xyz
+
